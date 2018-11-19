@@ -1,8 +1,9 @@
 # Shadow-Lines-Filling-of-Closed-Polygon
-  Computer Graphics, course project  
+  Course project of Computer Graphics 
   College of Electrical & Information Engineering  
   Advisor: Prof. Xiaoping Wang  
-  Date:2016.11
+  Date:2016.11  
+  Tongji University
   
 ### I. Description & Design
   The target of this project is implementing an algorithm to fill an arbitrary polygon with shadow lines. Shadow lines are regarded as a set of paralelled slashes with identical interspace, the amount of interspace and slope can be customized.  
