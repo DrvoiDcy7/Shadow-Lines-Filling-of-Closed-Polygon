@@ -2,7 +2,7 @@
   Course project of Computer Graphics 
   College of Electrical & Information Engineering  
   Advisor: Prof. Xiaoping Wang  
-  Date:2016.11  
+  Date: Nov, 2016
   Tongji University
   
 ### I. Description & Design
