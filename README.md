@@ -10,6 +10,7 @@
   (I) Arbitrary polygon with any number or position of edges and vertices  
   (II) Customized interspace and slope  
   (III) Fill the polygon with shadow lines  
-### II. Development environment  
-  Visual Studio 2017
+### II. Development Environment  
+  Visual Studio 2017  
   OpenGL
+### III. Instructions
