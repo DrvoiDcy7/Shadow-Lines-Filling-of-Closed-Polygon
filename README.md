@@ -36,7 +36,7 @@ Click the right button of mouse to refresh
   <br/>
   
   <div align=center>
-	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture2.jpg">
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture2.png">
   </div>
   
   <br/>
