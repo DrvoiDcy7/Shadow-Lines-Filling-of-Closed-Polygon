@@ -16,3 +16,49 @@
   Visual Studio 2017  
   OpenGL
 ### III. Instructions
+Execute ShadowFill.cpp, the console will appear and ask for number of edges of the polygon.
+<br/>
+After the number is specified, console canvas will show up for drawing out the polygon by clicking on each vertex.
+<br/>
+Meanwhile, the coordinates of each vertex will be shown on the console.
+<br/>
+Last, input gradient of shadow lines and distance between adjacent lines
+<br/>
+Click the right button of mouse to refresh
+#### Show of results:
+
+<br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture1.jpg">
+  </div>
+
+  <br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture2.jpg">
+  </div>
+  
+  <br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture3.jpg">
+  </div>
+  
+  <br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture4.jpg">
+  </div>
+  
+  <br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture5.jpg">
+  </div>
+  
+  <br/>
+  
+  <div align=center>
+	<img src="https://raw.githubusercontent.com/DrvoiDcy7/Shadow-Lines-Filling-of-Closed-Polygon/master/img/Picture6.jpg">
+  </div>
